@@ -181,7 +181,7 @@ The game loop is limited to approximately 60 FPS.
 ## 📁 Project Structure
 
 ```
-Space-Invaders/
+2D-Arcade-Space-Invaders-Pygame/
 │
 ├── space_invaders_game.py
 ├── highscore.txt
